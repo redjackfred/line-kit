@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://redjackfred.github.io/line-kit/sitemap.xml
+Sitemap: https://redjackfred.github.io/line-kit/sitemap.txt

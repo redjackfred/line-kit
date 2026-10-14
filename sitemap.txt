@@ -20,3 +20,4 @@ https://redjackfred.github.io/line-kit/line-monthly-content-plan.html
 https://redjackfred.github.io/line-kit/line-price-inquiry-reply.html
 https://redjackfred.github.io/line-kit/line-group-buy-preorder.html
 https://redjackfred.github.io/line-kit/line-reward-card.html
+https://redjackfred.github.io/line-kit/line-grand-opening.html
